@@ -1,0 +1,139 @@
+--------------------Linked In Public Profile--------------------
+
+Name: // User_Name //
+Info: // User_Designation at Company_name/Organisation_Name //
+Location: // User_Location //
+Industry: // Industry_name //
+
+-----------------------------------------------------------------
+
+Current details:
+1: Current_Details_1
+
+2: Current_Details_2
+.
+.
+
+-----------------------------------------------------------------
+
+
+Past details:
+1: Past_Details_1
+
+2: Past_Details_2
+.
+.
+
+-----------------------------------------------------------------
+Education:
+1: Education_Details_1
+
+2: Education_Details_2
+.
+.
+
+-----------------------------------------------------------------
+
+Summary
+// Profile_summary //
+
+-----------------------------------------------------------------
+
+Experience:
+1: Experience_details_1
+
+2: Experience_details_2
+.
+.
+
+-----------------------------------------------------------------
+
+
+Certifications:
+1: Certificate_1
+
+2: Certificate_2
+.
+.
+
+-----------------------------------------------------------------
+
+Projects:
+1: Project_1_Name
+Project_1_Description
+Team members:
+1: Team_member_1
+2: Team_member_2
+
+2: Project_2_Name
+Project_2_Description
+Team members:
+1: Team_member_1
+2: Team_member_2
+.
+.
+
+-----------------------------------------------------------------
+
+Honors &amp; Awards:
+1: Award_title_1
+Award_info_1
+
+2: Award_title_2
+Award_info_2
+.
+.
+
+-----------------------------------------------------------------
+
+Skills:
+1: Skill_1
+
+2: Skill_2
+.
+.
+
+-----------------------------------------------------------------
+
+Volunteer Experience &amp; Causes:
+1: Volunteer_1, Volunteer_info_1
+
+2: Volunteer_2, Volunteer_info_2
+.
+.
+
+-----------------------------------------------------------------
+
+Publications:
+1: Publication_1
+Authors:
+1: Author_1
+2: Author_2
+
+2: Publication_2
+Authors:
+1: Author_1
+2: Author_2
+.
+.
+
+-----------------------------------------------------------------
+
+Languages:
+1: Language_1
+
+2: Language_2
+.
+.
+
+-----------------------------------------------------------------
+
+Interests:
+1: Interest_1
+
+2: Interest_2
+.
+.
+
+-----------------------------------------------------------------
+
